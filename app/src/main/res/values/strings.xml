@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Developer Jobs</string>
+    <string name="contoh_description"><p>Who we are</p>\n\n
+        <p>LiGr systems is a growing startup in the sports and media tech industry which creates automated,
+            real-time data-driven graphic displays (scoreboards, team lists, infographics) for sports organisations
+            from grassroots to professional for use primarily over live video broadcasts.</p>\n\n
+        <p>Who we're looking for:</p>\n\n
+        <p>This is a unique opportunity to build exciting, bleeding edge technology in the sports and broadcast industry,
+            and we are looking for a talented, experienced javascript/web engineer to join our team and help build
+            on our ideas. </p>\n\n
+        <p>The successful applicant will be able to assist us in meeting the challenges of scale as we expand our
+            operation internationally. You will have an immediate opportunity to influence the product strategy
+            and organisational culture. </p>\n\n
+        <p>Successful candidates will be invited to meet our leadership
+            team in person or over video chat.</p>\n\n
+        <p>The following skills are required</p>\n\n
+        <p>Strong engineering ability, \nFluent / Advanced English, \nExcellent practical problem-solving, \nA
+            passion for software, \nGreat written communication skills, \nOrganisational skills, \nContinuous Learner,
+            \nAbility to work unsupervised</p>\n\n<p>The following skills are highly valued</p>\n\n
+        <p>Cloud infrastructure e.g. containers(docker), Kubernetes, GCP, cloud functions,\nReact, webpack, babel, r
+            edux\nSvg, gsap, animation/motion graphics\nEvent-driven architectures, event sourcing,\nTesting
+            unit/integration/e2e/CI/CD,\nUnderstanding of design systems,\nCSS</p>\n\n
+        <p>The following is also valued</p>\n\n
+        <p>Some understanding of sport,\nVideo streaming - encoding/hls/rtmp/storage/facebook/youtube</p>\n\n
+        <p>Our current stack:</p>\n\n<p>React,\nNode.js,\nDocker,\nKubernetes,\nGCP,\nGoogle Firestore</p>\n\n
+        <p>What you”ll be doing</p>\n\n
+        <p>Creating web interfaces/content management systems, \nImplementing graphic components,
+            \nImproving event-driven architecture and building backend services</p>\n\n
+        <p>Benefits of the role</p>\n\n
+        <p>In addition to being a part of a great team, working in a fun and creative environment and learning
+            from the best technical minds in the sports industry, we offer:</p>\n\n<p>Competitive salary, \nAccess to the
+            latest tools and technologies, \nWork with global sporting bodies and sports leagues, \nRemote work with a virtual
+            and regular communication environment (Trello, Slack, Github etc), \nStart-up sized company, where you can make an
+            immediate impact, \nBuild software that will have a global impact on sports and the future of sports broadcast, \nOur
+            team is technical and understands developer needs</p>\n\n
+        <p>Apply</p>\n\n
+        <p>Applying is easy. Send an email with your resume, website, Github account, links to apps or anything else you're proud
+            of. If we like what we see, we’ll get in touch and organise a catchup in person or over video chat. We’ll then tell
+            you more about the role and we can decide if there's a fit.</p>\n\n
+        <p>Email applications to <a href="mailto:luke@ligrsystems.com">luke@ligrsystems.com</a></p>"</string>
+    <string name="contoh_howto"><p>Please apply through our web app form at  <a href="https://www.janestreet.com/join-jane-street/apply/\">https://www.janestreet.com/join-jane-street/apply/</a></p></string>
+</resources>
